@@ -64,3 +64,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# added to stop GH build error due to resource paths being incorrect. 
+sass:
+  sass_dir: ./_sass
