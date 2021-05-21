@@ -41,7 +41,11 @@ footer_links:
 
 # Build settings
 # markdown: kramdown
-theme: minima
+#theme: minima
+
+#remote_theme: jekyll/minima
+#remote_theme: jekyll/primer
+
 plugins:
   - jekyll-feed
 
